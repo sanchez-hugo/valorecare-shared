@@ -1,0 +1,22 @@
+.user-detail {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    vertical-align: middle;
+}
+
+.user-image {
+    margin: 5px;
+}
+
+.user-label {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    vertical-align: middle;
+    margin-left: 5px;
+}
+
+.user-flag {}
