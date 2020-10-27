@@ -6,3 +6,7 @@
 - Location Services
 - Subscription Services
 - Stripe Connect
+
+
+#### To do:
+Add screenshots of front end UI
